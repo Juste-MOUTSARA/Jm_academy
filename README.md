@@ -1,4 +1,4 @@
-# Nom du projet
+# JM Academy
 
 Ce projet consiste à mettre en place un site web pour JM Academy
 
